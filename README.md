@@ -50,13 +50,21 @@ Exit – Return to the database selection menu.
 Example Usage
 
 $ ./db.sh
+
 ================================== DB Management System ========================================
+
 1- Create Database
+
 2- List Databases
+
 3- Connect Database
+
 4- Delete Database
+
 5- Exit
+
 Choose an option: 1
+
 Please Enter The Name Of The Database You Want To Create: my_database
 Database "my_database" created successfully!
 
