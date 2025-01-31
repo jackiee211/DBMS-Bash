@@ -20,8 +20,11 @@ This is a simple **Database Management System (DBMS)** implemented in Bash. It a
 ### Installation
 1. Clone or download the script files:
    git clone https://github.com/jackiee211/DBMS-Bash
+   
    cd DBMS-Bash
+   
 Ensure the scripts have execution permission:
+
 chmod +x db.sh table.sh
 
 Usage:
